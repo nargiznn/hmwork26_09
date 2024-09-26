@@ -20,7 +20,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .products p{
     margin-left: 20px;
 }
-.products button{
+.products  .technology-btn{
     width: 90px;
     height: 23px;
  margin-top: 20px;
@@ -29,6 +29,27 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
  color: white;
  border-radius: 10px;
 }
+.products .food-btn{
+    width: 90px;
+    height: 23px;
+ margin-top: 20px;
+ margin-left: 20px;
+ background-color: rgb(184, 184, 8);
+ color: white;
+ border-radius: 10px;
+}
+.products  .auto-btn{
+    width: 90px;
+    height: 23px;
+ margin-top: 20px;
+ margin-left: 20px;
+ background-color: red;
+ color: white;
+ border-radius: 10px;
+}
+
+
+
 .products .card-image{
 width: 100%;
 height: 220px;
